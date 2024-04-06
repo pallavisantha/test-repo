@@ -1,0 +1,5 @@
+iclass Helloworld{
+
+i PUblic ststic void main(string[] args){
+i   System.out.println("hello world");
+}}
